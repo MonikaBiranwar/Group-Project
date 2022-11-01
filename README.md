@@ -1,0 +1,7 @@
+# Group-Project
+We are creating group project for github practice
+public class add{
+public static void main(String[] args){
+System.out.println("hello mam");
+}
+}
